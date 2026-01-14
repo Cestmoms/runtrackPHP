@@ -1,0 +1,9 @@
+body {
+    background-color: lightgreen;
+    font-family: 'Courier New', monospace;
+}
+form {
+    background-color: #f0fff0;
+    padding: 20px;
+    border: 2px dashed green;
+}
